@@ -9,7 +9,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/"
-           revision="refs/tags/android-10.0.0_r2" />
+           revision="refs/tags/android-wear-7.1.1_r0.51" />
   <default revision="refs/heads/t-alps-q0.mp1-V9.122.1"
            remote="github"
            sync-j="4" />
